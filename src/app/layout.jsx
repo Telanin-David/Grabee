@@ -47,7 +47,7 @@ export default function RootLayout({ children }) {
               scrollPosition > 100 ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
             } bg-purple-500 h-24 w-24 transition-opacity duration-500 ease-in-out`}
           >
-            Scroll Animation
+            
           </div>
 
           <Header />
